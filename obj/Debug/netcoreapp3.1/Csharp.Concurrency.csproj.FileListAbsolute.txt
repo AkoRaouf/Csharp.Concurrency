@@ -1,0 +1,13 @@
+C:\Users\Raouf\source\repos\Csharp.Concurrency\bin\Debug\netcoreapp3.1\Csharp.Concurrency.exe
+C:\Users\Raouf\source\repos\Csharp.Concurrency\bin\Debug\netcoreapp3.1\Csharp.Concurrency.deps.json
+C:\Users\Raouf\source\repos\Csharp.Concurrency\bin\Debug\netcoreapp3.1\Csharp.Concurrency.runtimeconfig.json
+C:\Users\Raouf\source\repos\Csharp.Concurrency\bin\Debug\netcoreapp3.1\Csharp.Concurrency.runtimeconfig.dev.json
+C:\Users\Raouf\source\repos\Csharp.Concurrency\bin\Debug\netcoreapp3.1\Csharp.Concurrency.dll
+C:\Users\Raouf\source\repos\Csharp.Concurrency\bin\Debug\netcoreapp3.1\Csharp.Concurrency.pdb
+C:\Users\Raouf\source\repos\Csharp.Concurrency\obj\Debug\netcoreapp3.1\Csharp.Concurrency.csprojAssemblyReference.cache
+C:\Users\Raouf\source\repos\Csharp.Concurrency\obj\Debug\netcoreapp3.1\Csharp.Concurrency.AssemblyInfoInputs.cache
+C:\Users\Raouf\source\repos\Csharp.Concurrency\obj\Debug\netcoreapp3.1\Csharp.Concurrency.AssemblyInfo.cs
+C:\Users\Raouf\source\repos\Csharp.Concurrency\obj\Debug\netcoreapp3.1\Csharp.Concurrency.csproj.CoreCompileInputs.cache
+C:\Users\Raouf\source\repos\Csharp.Concurrency\obj\Debug\netcoreapp3.1\Csharp.Concurrency.dll
+C:\Users\Raouf\source\repos\Csharp.Concurrency\obj\Debug\netcoreapp3.1\Csharp.Concurrency.pdb
+C:\Users\Raouf\source\repos\Csharp.Concurrency\obj\Debug\netcoreapp3.1\Csharp.Concurrency.genruntimeconfig.cache
