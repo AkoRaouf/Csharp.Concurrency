@@ -18,7 +18,10 @@ namespace Csharp.Concurrency
             List<Task<int>> taskList = new List<Task<int>>() { taskA, taskB, taskC };
 
             var taskQuery = from t in taskList select taskSource.AwaitAndProcessAsyinc(t);
-            var secondTaskQuery = taskList.Select(x=> taskSource.AwaitAndProcessAsyinc(x));
+            var processingTasks = taskList.Select(async t => {
+                var result = await t;
+                Console.WriteLine(result);
+            });a
 
             Task.WaitAll(taskQuery.ToArray());
             
